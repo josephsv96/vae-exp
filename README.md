@@ -25,3 +25,7 @@ Experimentation on Variational Autoencoders using TensorFlow and Keras.
 * [ ] VGG16
 * [ ] ResNet18
 * [ ] DenseNet18
+
+## Resources
+
+1. <https://medium.com/tensorflow/what-are-symbolic-and-imperative-apis-in-tensorflow-2-0-dfccecb01021>
